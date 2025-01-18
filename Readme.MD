@@ -134,7 +134,7 @@ The goal is to efficiently design, train, evaluate, and deploy systems while ens
 
 ---
 
-### **Hour 14: Monitoring and CI/CD**
+### **Hour 14: Monitoring and CI/CD **
 - Topics: Automating monitoring and deployment.
 - Tasks:
   - Use CloudWatch for model performance tracking.
