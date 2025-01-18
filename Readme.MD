@@ -147,6 +147,8 @@ The goal is to efficiently design, train, evaluate, and deploy systems while ens
 ```plaintext
 project/
 ├── generative_ai/
+│   ├── Knowledgebase/
+│   │   ├── pdf/text data
 │   ├── transformers/
 │   │   ├── llama2.py
 │   │   ├── claude2.py
