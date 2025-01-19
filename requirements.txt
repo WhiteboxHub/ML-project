@@ -1,6 +1,8 @@
-    transformers
-    sentence-transformers
-    faiss-cpu
-    langchain
-    fastapi
-    uvicorn
+fastapi
+uvicorn
+transformers
+peft
+datasets
+faiss-cpu
+accelerate
+torch
