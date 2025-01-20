@@ -2,6 +2,9 @@ from groq import Groq
 from retrival import retrive_docs
 from prompt import RAG_PROMPT
 from typing import Annotated
+from langchain_core.tools import tool
+
+@tool
 def RAG(query : Annotated[str, "query to ask the retrieve information tool"]):
     """
     get the information from the knowledbase
